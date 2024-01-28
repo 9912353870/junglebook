@@ -1,0 +1,7 @@
+{
+  "plugins": ["react-cosmos-plugin-webpack"],
+  "fixturesDir": "__fixtures__",
+  "webpack": {
+    "includeHashInOutputFilename": true
+  }
+}
